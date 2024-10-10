@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Southern California (USC), at the Ming Hsieh Department of Electrical and Computer Engineering, advised by Professor Richard Leahy.
+I am currently a Ph.D. student in the [Biomedical Imaging Group](https://neuroimage.usc.edu/neuro) at University of Southern California (USC), advised by Prof. [Richard Leahy](https://viterbi.usc.edu/directory/faculty/Leahy/Richard).
 
 My research primarily focuses on applying machine learning techniques—particularly generative models, computer vision, and semi-supervised learning—to medical imaging. I prioritize working on problems that require creative and critical thinking, and I value being part of a dynamic, collaborative team where the environment fosters both innovation and productivity.
 
