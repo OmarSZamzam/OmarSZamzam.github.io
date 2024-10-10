@@ -10,7 +10,7 @@ My research primarily focuses on applying machine learning techniques—particul
 
 ## My Research
 
-My research focuses on applying machine and deep learning techniques, particularly generative models, computer vision, and semi-supervised learning, to medical imaging. I have worked on projects ranging from positive-unlabeled (PU) learning for time series EEG data to developing diffusion models for 3D brain image synthesis and inpainting. Additionally, I have applied quantile regression for anomaly detection and image translation, as well as explored image registration techniques and image captioning using vision transformers. Currently, my work is centered on creating a multimodal foundational model to handle diverse medical data modalities for unified analysis.
+My research focuses on applying machine and deep learning techniques, particularly generative models, computer vision, and semi-supervised learning, to medical imaging. I have worked on projects ranging from positive-unlabeled (PU) learning for image data as well as time series EEG signals to developing diffusion models for 3D brain image synthesis and inpainting. Additionally, I have applied quantile regression for anomaly detection and image translation, as well as explored image registration techniques, and image captioning using vision transformers. Currently, my work is centered on creating a multimodal foundational model to handle diverse medical data modalities for unified analysis.
 
 ## Most Recent Work Experience
 
@@ -43,6 +43,9 @@ My research focuses on applying machine and deep learning techniques, particular
   <span>B.S. in Electrical Engineering, King Saud University</span>
   <span><strong>2020</strong></span>
 </div>
+
+
+
 
 
 {% include_relative _includes/publications.md %}
