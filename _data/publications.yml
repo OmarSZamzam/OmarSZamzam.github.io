@@ -40,7 +40,7 @@ main:
     notes: #Early Accept
 
   - title: Slice to Volume Registration and Reconstruction Using Deep Learning
-    authors: <strong>Zamzam O</strong>, Joshi AA, Wood JC, Nayak KS, Leahy RM
+    authors: <strong>Omar Zamzam</strong>, Anand Joshi, John C Wood, Krishna S Nayak, Richard M Leahy
     conference_short: OHBM
     conference: Organization for Human Brain Mapping
     pdf: #https://arxiv.org/pdf/2306.00988.pdf
